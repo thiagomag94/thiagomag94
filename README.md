@@ -14,8 +14,8 @@ Learning: **ReactJS**, **Node.Js**, **MongoDB**
 
 
 	
-![Thiago Status](https://github-readme-stats.vercel.app/api?username=thiagomag94&show_icons=true)
+![Thiago Status](https://github-readme-stats.vercel.app/api?username=thiagomag94&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomag94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomag94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
