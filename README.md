@@ -4,7 +4,7 @@ A brazilian Full Stack Developer (in progress....), Guitar lover and Prog Rock l
 
 Nowadays working at Federal University of Pernambuco, Brazil.
 
-Learning: **ReactJS**, **Node.Js**, **MongoDB**
+Learning: **NextJS**, **Node.Js**, **MongoDB**
 
 
 ## Technologies ##
