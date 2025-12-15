@@ -1,10 +1,8 @@
 # Hey, I’m Thiago Borges #
 
-A brazilian Full Stack Developer (in progress....), Guitar lover and Prog Rock listener with Python expertise.
+A brazilian Full Stack Developer, Guitar lover and Prog Rock listener.
 
 Nowadays working at Federal University of Pernambuco, Brazil.
-
-Learning: **NextJS**, **Node.Js**, **MongoDB**
 
 
 ## Technologies ##
